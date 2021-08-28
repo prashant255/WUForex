@@ -1,0 +1,104 @@
+.card-lp{
+    border: solid 2px;
+    border-color: #666;
+    border-radius: 20px;
+}
+
+.recommended {
+    background-color: #388E3C;
+    color: #FFF;
+    text-align: center;
+    border-radius: 3px;
+    margin: 0px 0px 5px 30px;
+    width: 70%;
+    height: 12%;
+    font-size: 18px;
+}
+
+.lp-img {
+    width: 80%;
+    height: 85%;
+    position: absolute;
+    margin-top: 5%;
+    left: 35px;
+    top: 12px;
+}
+
+.currency-pair {
+    text-align: center;
+    vertical-align: center;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 7  00;
+    line-height: 40px;
+    height: 90%;
+}
+
+.smallerText {
+    font-size: 20px;
+}
+
+.display-rates {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.modal-links {
+    margin: auto;
+}
+
+.modal-links button {
+    margin: 20px;
+    font-size: 20px;
+    width: 80%;
+    height: 55px;
+    background-color: #666;
+}
+        
+.ask-bid {
+    color: rgb(71, 71, 184);
+    line-height: 13px;
+    margin-top: 13%;
+    margin-right: 15px;
+}
+
+.high {
+    color: #3CA04C;
+}
+
+.low {
+    color: #E3242B;
+}
+
+.more-options {
+    height: 10%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+}
+
+.fa-caret-down {
+    margin:10px
+}
+
+.fa-caret-down:hover {
+    cursor: pointer;
+}
+
+.fa-bar-chart {
+    color: white;
+}
+
+.price-up {
+    color: #1CE01C;
+}
+
+.price-down {
+    margin-top: 5%;
+    color: #E01C1C;
+}

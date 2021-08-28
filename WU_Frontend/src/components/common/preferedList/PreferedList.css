@@ -1,0 +1,38 @@
+.MainList{
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    background-color: #666666;
+    border: 1px solid #666666;
+    color: #ffffff;
+    text-align: center;
+    width: 90%;
+    line-height: 40px;
+    margin-top: 20%;
+}
+
+.List{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    background-color: #C8E6C9;
+    line-height: 50px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+.List :hover{
+    background-color:#78C679;
+    cursor: pointer; 
+}
+
+.MainList a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.HeadingList{
+    font-size: 30px;
+    line-height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

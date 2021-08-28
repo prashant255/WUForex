@@ -1,0 +1,92 @@
+.modal-calculator { 
+    border: 1px solid;
+    box-shadow: 100px; 
+    width: 400px;
+    height: 420px; 
+    background-image: linear-gradient(#C8E6C9, #edf5ed) ; 
+    margin: auto;
+    margin-top: 10%;
+ }
+
+ .topButton{
+     margin-bottom: 20px;
+ }
+
+.rates{
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 28px;
+    background-color: #666666;    
+}
+
+.rates:hover{
+    height: 52px;
+    font-weight: bold;
+}
+.display-rate{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    align-self: center;
+    
+}
+
+.take-input-size {
+    margin: auto;
+    margin-top: 20px;
+}
+
+.size-label {
+    margin-top: 2px;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.input-level {
+    margin-top: 10px;
+}
+
+.input-box {
+    text-align: center;
+    width: 90%;
+    margin-left: 30px;
+    border-spacing: 10px;
+    height: 35px;
+    display: inline-block;
+    align-self: center;
+    
+}
+.lots{
+    margin-top: 2px;
+    margin-left: -10px;
+    font-size: 17px;    
+}
+
+.valuation{
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 110px;
+}
+
+.valuation-price{
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+    color: black;
+    padding: 5px;
+    width: 130px;
+    height: 35px;
+}
+
+
+.button-close {
+    background-color: #666666;
+    width: 30%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+

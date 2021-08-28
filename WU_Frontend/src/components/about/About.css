@@ -1,0 +1,54 @@
+.image-about-us {
+    margin-top: 0px;
+    width: 100%;
+    height: auto;
+}
+
+.image-features {
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 150px;
+    width: 150px;
+    /* border: 1px solid #021a40; */
+  }
+
+  .word-info {
+      margin-right: 100px;
+      margin-left: 100px;
+  }
+
+.info {
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading-info {
+    margin-top: 30px;
+    font-size: 32px;
+    text-align: center;
+    font-style: inherit;
+    color: #3d853e;
+    font-weight: bold;
+    padding: 10px;
+}
+ 
+.description-why-WUForex{
+    font-size: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;   
+} 
+
+
+.image-logo {
+    display: inline-block;
+    margin-right: 70px;
+    height: 150px;
+    width: 150px;
+    /* border: 1px solid #021a40; */
+  }

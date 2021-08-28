@@ -1,0 +1,27 @@
+.title {
+    margin-top: 40px;
+}
+
+.title-link:hover {
+    text-decoration: none;
+}
+
+.number-404{
+    font-size: 100px;
+    margin-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-style: initial;
+    
+}
+
+.page-not-found{
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+}
+
+.go-back-home-btn{
+    margin-top: 30px;
+}

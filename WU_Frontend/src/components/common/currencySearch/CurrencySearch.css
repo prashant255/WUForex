@@ -1,0 +1,65 @@
+.card-searchBox {
+    width: 95%;
+    border: solid 2px;
+    border-color: rgb(253, 227, 227);
+    margin-top: 15%;
+}
+
+.text-field{
+    padding-right: 10px;
+}
+
+.task-title {
+    padding-top: 10px;
+    margin: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 10;
+    line-height: 40px;
+    color: #666;
+}
+
+.reverse-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    background-color:  #ffffff;
+    color: #666666;
+    font-size: 40px;
+    align-items: center;
+    margin-top: 350%;
+    cursor: pointer;
+    
+}
+
+.SearchButton-main {
+    margin-top: 18%;
+    margin-left: 4%;
+}
+
+.reverse-icon-main{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    background-color:  #666666;
+    color: #ffffff;
+    font-size: 40px;
+    align-items: center;
+    margin-top: 18%;
+    margin-bottom: 0%;
+    margin-left: 45%;
+    cursor: pointer;
+}
+
+.validateButton{
+    font-size: 12px;
+    color : #ff0000;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,8 @@
+Installation step:
+
+-> Restore the LP-database, which is provided in the folder. Run the mongo at its default port.
+-> Go the to WU_Backend folder and run npm install followed by npm start command. It will start to run on port 8080.
+-> Go to the WU_Frontend folder and run npm install followed by npm start command. It will start to run on port 3000.
+-> Go to the WU_Scheduler Folder and run npm install followed by npm start command.
+-> Make sure the WU_Prediction is in same folder as WU_Scheduler.
+-> You can now run our website on localhost:3000.
